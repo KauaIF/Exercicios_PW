@@ -7,6 +7,7 @@
 </head>
 <body>
     <?php
+        /* $pessoa = array("codigo" => */
         $lista = array();
         $lista[1] = 'Huciano Lulk';
         $lista[] = 'Ronaldinhooo';
